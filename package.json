@@ -1,0 +1,14 @@
+{
+  "name": "velha",
+  "version": "1.0.0",
+  "description": "Jogo da velha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LelioMarcos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
